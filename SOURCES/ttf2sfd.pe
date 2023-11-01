@@ -1,0 +1,8 @@
+#!/usr/bin/env fontforge
+
+Print( "    ")
+Print( "Generating sfd from ttf sources...") 
+Print( "----------------------------------")
+Open($1)
+Save($1:r + ".sfd")
+Print( "    ")

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Parag Nemade <pnemade AT redhat DOT com> -->
+<component type="font">
+  <id>madan</id>
+  <metadata_license>CC-BY-3.0</metadata_license>
+  <name>Madan</name>
+  <summary>Font for Nepali language</summary>
+  <description>
+    <p>
+      This package provides the Madan font for Nepali made by the
+      Madan Puraskar Pustakalaya project.
+    </p>
+  </description>
+  <updatecontact>pnemade_at_redhat_dot_com</updatecontact>
+  <url type="homepage">http://madanpuraskar.org/</url>
+</component>
